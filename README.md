@@ -1,8 +1,7 @@
 
 
-<div>
   ![final_banner](https://github.com/smais007/smais007/assets/59029490/072d6d06-c6b8-4b8e-9fec-26b6eedb6c91)
-</div>
+
 ### Hi there 👋 I am Smais Shawon. 
 
 
