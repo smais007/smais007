@@ -2,7 +2,13 @@
 
   ![final_banner](https://github.com/smais007/smais007/assets/59029490/072d6d06-c6b8-4b8e-9fec-26b6eedb6c91)
 
-### Hi there 👋 I am Smais Shawon. 
+### Hi there 👋 
+
+## About Me
+
+I'm S M Ariful Islam Shawon, a React Developer passionate about crafting user-friendly and visually appealing web experiences. With expertise in HTML, CSS, JavaScript, and React, and proficiency in tools like Tailwind CSS, Firebase, and REST APIs, I bring a strong skill set to any development environment. My projects, such as a full-stack scholarship management system and a travel website, showcase my ability to build robust applications. I am committed to continuous learning and staying updated with industry trends to deliver top-notch solutions.
+
+[Portfolio](https://smais.dev/) | [LinkedIn](https://www.linkedin.com/in/smais007/) 
 
 
 ## 🌐 Socials
